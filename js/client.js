@@ -300,7 +300,7 @@ socket.on('user-joined',names=>
       }
       messageElement.addEventListener('click',()=>{
         alert("go to audio page");
-        window.open('index.html');  
+        window.open('index1.html');  
       });
   }
 
